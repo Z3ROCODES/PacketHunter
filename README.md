@@ -17,8 +17,6 @@
    ```bash
    pip install -r requirements.txt
    ```
-3. Usage
-
 # Packet Sniffer:
 ```bash
 python sniffer.py
