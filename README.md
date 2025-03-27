@@ -13,10 +13,6 @@
    git clone https://github.com/Z3ROCODES/PacketHunter.git
    cd PacketHunter
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 # Packet Sniffer:
 ```bash
 python sniffer.py
